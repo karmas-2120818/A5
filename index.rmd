@@ -1,0 +1,2 @@
+##Introduction
+I chose to analyze co2 and co2_per_capita. I calculated 3 values. The country with the highest and lowest co2, the total co2 from the previous year, and the highest and lowest per capita. Qatar had the country highest co2 while Democratic Republic of Congo had the least amount of co2. The highest co2 per capita was 35.587, and the lowest co2 per capita was 0.027. 
